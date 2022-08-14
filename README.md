@@ -25,8 +25,6 @@ There you may run into some troubles, for examples as I change to a M1 Mac
 1. there is no default python, only python3. some shell functions would break, just find and fix it
 2. in fact I install brew prior to this section, brew go off-grid. fix with `export PATH="/opt/homebrew/bin:$PATH"` in zshrc (I put it in zshrc_local_before)
 
-
-
 But nothing we can't handle
 
 
